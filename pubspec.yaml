@@ -1,0 +1,5 @@
+name: sistema_de_pontos_cpifpe
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+dependencies: 
+  mysql1: ^0.19.2
